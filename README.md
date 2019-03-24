@@ -31,6 +31,7 @@ Two members of a criminal gang are arrested and imprisoned. Each prisoner is in 
 ### Results
 
 <img src="output/classic_tournament_results.png">
+
 ---
 
 ### Payoffs
