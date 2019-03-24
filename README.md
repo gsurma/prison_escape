@@ -11,3 +11,6 @@ Python notebooks containing various Prisoner's Dilemma approaches.
 <img src="output/classic_tournament_results.png">
 
 <img src="output/classic_tournament_payoffs.png">
+
+## Reinforcement Learning Approach
+coming soon!
