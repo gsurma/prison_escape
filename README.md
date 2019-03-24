@@ -8,7 +8,12 @@ Python notebooks containing various Prisoner's Dilemma approaches.
 
 ## Classic Approach
 
+### Results
+
 <img src="output/classic_tournament_results.png">
+---
+
+### Payoffs
 
 <img src="output/classic_tournament_payoffs.png">
 
