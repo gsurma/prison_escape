@@ -26,17 +26,14 @@ Two members of a criminal gang are arrested and imprisoned. Each prisoner is in 
 	               ------------------------------
            
 
-## Classic Approach
 
 ### Results
 
-<img src="output/classic_tournament_results.png">
+<img src="output/tournament_results.png">
 
 ---
 
 ### Payoffs
 
-<img src="output/classic_tournament_payoffs.png">
+<img src="output/tournament_payoffs.png">
 
-## Reinforcement Learning Approach
-coming soon!
