@@ -6,6 +6,10 @@
 
 Python notebooks containing various Prisoner's Dilemma approaches.
 
+Check out corresponding Medium article:
+
+[Prison Escape - Solving Prisoner’s Dilemma with Machine Learning](https://towardsdatascience.com/prison-escape-solving-prisoners-dilemma-with-machine-learning-c194600b0b71)
+
 # Prisoner's Dilemma
 
 Two members of a criminal gang are arrested and imprisoned. Each prisoner is in solitary confinement with no means of communicating with the other. The prosecutors lack sufficient evidence to convict the pair on the principal charge, but they have enough to convict both on a lesser charge. Simultaneously, the prosecutors offer each prisoner a bargain. Each prisoner is given the opportunity either to betray the other by testifying that the other committed the crime, or to cooperate with the other by remaining silent. The offer is:
